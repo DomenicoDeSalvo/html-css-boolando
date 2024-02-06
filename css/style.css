@@ -72,7 +72,7 @@ nav .row{
 
 /* main */
 .main__section{
-    padding: 100px 0;
+    padding: 100px 0 20px;
 }
 
 .card__header{
@@ -144,6 +144,25 @@ nav .row{
 }
 
 /* Footer */
+
+.page__footer{
+    background-color: black;
+    color: white;
+    padding: 20px 0;
+}
+
+footer .row{
+    justify-content: space-between;
+    align-items: center;    
+}
+
+.footer__list{
+    display: flex;
+    gap: 5px;
+    font-size: 10px;
+    padding-top: 6px;
+}
+
 
 /* debug */
 .debug{
