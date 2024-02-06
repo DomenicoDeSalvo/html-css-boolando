@@ -32,3 +32,9 @@ img{
 .col-4{
     width: calc(100% / 3);
 }
+
+/* Header */
+.main-nav{
+    background-color: rgb(255, 105, 0);
+    color: white;
+}
