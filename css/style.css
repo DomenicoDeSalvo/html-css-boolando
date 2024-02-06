@@ -35,7 +35,7 @@ img{
 }
 
 /* Header */
-.main-nav{
+.main__nav{
     background-color: rgb(255, 105, 0);
     color: white;
     padding: 20px;
@@ -49,13 +49,13 @@ img{
     width: 100px;
 }
 
-.nav-list{
+.nav__list{
     display: flex;
     gap: 10px;
 
 }
 
-.nav-list img{
+.nav__list img{
     width: 16px;
 }
 
@@ -66,7 +66,7 @@ nav .row{
 }
 
 /* main */
-.main-section{
+.main__section{
     padding: 100px 0;
 }
 
