@@ -38,6 +38,9 @@ img{
     background-color: rgb(255, 105, 0);
     color: white;
     padding: 20px;
+    position: fixed;
+    left: 0;
+    width: 100%;
 }
 
 .logo{
@@ -65,5 +68,5 @@ nav .row{
 .debug{
     background-color: bisque;
     min-width: 100%;
-    min-height: 500px;
+    min-height: 1500px;
 }
