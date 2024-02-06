@@ -129,6 +129,19 @@ nav .row{
     color: red;
 }
 
+.card__header .overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+}
+
+.card__header:hover .overlay{
+    opacity: 1;
+}
+
 /* debug */
 .debug{
     background-color: bisque;
