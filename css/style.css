@@ -158,7 +158,7 @@ footer .row{
 
 .footer__list{
     display: flex;
-    gap: 5px;
+    gap: 10px;
     font-size: 10px;
     padding-top: 6px;
 }
