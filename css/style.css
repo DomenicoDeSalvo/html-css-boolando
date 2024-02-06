@@ -37,4 +37,28 @@ img{
 .main-nav{
     background-color: rgb(255, 105, 0);
     color: white;
+    padding: 20px;
+}
+
+.logo{
+    display: block;
+    width: 100px;
+}
+
+.nav-list{
+    display: flex;
+
+}
+
+nav .row{
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+/* debug */
+.debug{
+    background-color: bisque;
+    min-width: 100%;
+    min-height: 500px;
 }
